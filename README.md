@@ -1,4 +1,4 @@
-# 🤖 AI Resume Screening System using NLP & Machine Learning
+# AI Resume Screening System using NLP & Machine Learning
 
 An intelligent **Resume Screening System** built using **Sentence-BERT, XGBoost, and Streamlit** that automatically analyzes resumes and predicts how well they match a given job description.
 
@@ -71,8 +71,8 @@ Resume-Analyzer-NLP
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/resume-analyzer-nlp.git
-cd resume-analyzer-nlp
+git clone git https://github.com/Aadarshshukla18/AI-Resume-Screening-System.git
+cd resume-screening-nlp
 ```
 
 Install dependencies:
