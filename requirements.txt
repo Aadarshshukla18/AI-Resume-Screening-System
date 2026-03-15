@@ -1,0 +1,11 @@
+python
+pandas
+numpy
+scikit-learn
+streamlit
+xgboost
+sentence-transformers
+PyPDF2
+joblib
+torch
+transformers
