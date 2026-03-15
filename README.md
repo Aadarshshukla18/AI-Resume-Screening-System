@@ -1,4 +1,4 @@
-# AI Resume Screening System using NLP & Machine Learning
+# 🤖 AI Resume Screening System using NLP & Machine Learning
 
 An intelligent **Resume Screening System** built using **Sentence-BERT, XGBoost, and Streamlit** that automatically analyzes resumes and predicts how well they match a given job description.
 
